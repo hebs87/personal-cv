@@ -6786,6 +6786,11 @@ Created using IcoMoon - icomoon.io
   }
 }
 
+.about-link {
+    display: inline;
+    padding: 0;
+}
+
 @media screen and (min-width: 991px) and (max-width: 1200px) {
   .section-images .hero-images-container-1 {
     right: 9%;

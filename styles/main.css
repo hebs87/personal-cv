@@ -7226,6 +7226,11 @@ Created using IcoMoon - icomoon.io
   overflow: hidden;
 }
 
+.cc-contact-information.map {
+  background-image: url('../images/staticmap.png');
+  background-size: cover;
+}
+
 .cc-contact-information .cc-contact {
   padding: 8% 0 8% 20%;
 }

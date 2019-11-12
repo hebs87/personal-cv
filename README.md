@@ -1,7 +1,5 @@
-# Code Institute
+# Personal CV & Portfolio
 
-Welcome Sunny Hebbar,
+This is my personal website, consiting of my resume and portfolio. It lists my skills and projects, and contains links for my GitHub, Facebook and Instagram profiles.
 
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+There is also a contact form for recruiters, other coders or customers to get in touch with me if they want to hire me.
